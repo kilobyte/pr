@@ -1,0 +1,11 @@
+\n (^J): newline
+\r (^M): carriage return
+\f (^L): form feed
+\t (Tab)
+Backspace: polskie litery (a^H, -> ¹)
+Backspace: _ró¿ne_ znaki (bez doublestrike)
+Backspace: ten sam znak (-> bold)
+ESC 4: italic on
+ESC 5: italic off
+ESC G: double-strike on
+ESC H: double-strike off
